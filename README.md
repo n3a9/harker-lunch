@@ -1,0 +1,2 @@
+# harker-lunch
+This repository that acts as a redirect link for the Harker Lunch application. As it was originally hosted by [n3a9](https://github.com/n3a9), it has since been transferred under the [Harker Development organization](https://github.com/harkerdev/). However, this change has not been reflected in the [tiny.cc/lunchmenu](https://harkerdev.github.io/harker-lunch/) link.
